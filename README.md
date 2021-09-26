@@ -2,6 +2,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
+- [Demo](#demo)
 - [Setup](#setup)
 
 ## General info
@@ -12,10 +13,13 @@
 
 - HTML5
 - SASS/CSS
-- JavaScript (ES6)
+- JavaScript (ES6+)
 - Webpack
 - npm
 
+## Demo
+
+[click here](https://mikulew.github.io/js-paint/)
 ## Setup
 
 > To run this project, install it locally using npm
